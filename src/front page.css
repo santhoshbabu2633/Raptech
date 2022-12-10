@@ -1,0 +1,10 @@
+body
+{
+    background-image:url("D:\project1\myapp\public\pro.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0%;
+    background-attachment: fixed;
+    overflow:hidden;
+
+}
